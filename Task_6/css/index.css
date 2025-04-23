@@ -1,0 +1,20 @@
+h1{
+    /* width: 30px; */
+    /* border-right-width: 20px; */
+    padding-top:5px ;
+    padding-bottom:5px ;
+    border-top-style:dashed;
+    border-bottom-style:dashed ;
+    border-left-style: double;
+    border-left-width: 20px;
+    border-left-color: rgb(164, 151, 151);
+}
+p{
+    border-style:solid  ;
+    padding: 10px;
+    border-color:yellow ;
+    border-radius:10px ;
+    /* padding-left: 200px; */
+    width: 300px;
+    /* width: 30px; */
+}

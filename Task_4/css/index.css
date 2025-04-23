@@ -1,0 +1,41 @@
+body{
+    background-image: url("ocean.jpg");
+    background-repeat:no-repeat ;
+    /* to expand the size of image */
+    background-attachment: fixed;
+    /* to center the image */
+    background-position: center;
+    /* to show the full image size, complete display of image */
+    background-size: cover;
+
+}
+h1{
+    /* width: 30px; */
+    /* border-right-width: 20px; */
+    padding-top:5px ;
+    padding-bottom:5px ;
+    border-top-style:dashed;
+    border-bottom-style:dashed ;
+    border-left-style: double;
+    border-left-width: 20px;
+    /* color: rgb(145, 149, 73); */
+    color: rgb(203, 149, 49);
+    border-left-color: rgb(21, 110, 97);
+
+    /* changee the background color */
+    background: linear-gradient(rgb(51, 51, 112),rgb(27, 98, 112));
+}
+p{
+    /* display: center; */
+    border-style:solid  ;
+    padding: 10px;
+    border-color:rgb(68, 68, 99) ;
+    border-radius:10px ;
+    /* padding-left: 200px; */
+    width: 300px;
+
+    /* changing the background */
+    background: linear-gradient(blue,white);
+    background-repeat: no-repeat;
+    /* background-attachment:local; */
+}
