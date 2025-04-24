@@ -1,20 +1,36 @@
+body{
+    background-image: url("air2.jpg");
+    background-repeat: no-repeat;
+    background-attachment:fixed ;
+    background-position: center;
+    background-size: cover;
+
+}
 h1{
     /* width: 30px; */
     /* border-right-width: 20px; */
     padding-top:5px ;
     padding-bottom:5px ;
-    border-top-style:dashed;
-    border-bottom-style:dashed ;
+    border-top-style:solid;
+    border-bottom-style:solid ;
+    border-top-color: rgb(154, 135, 106);
+    border-bottom-color: rgb(154, 135, 106);
+
     border-left-style: double;
     border-left-width: 20px;
-    border-left-color: rgb(164, 151, 151);
+    border-left-color: rgb(15, 19, 118);
+    background:linear-gradient(white,rgb(120, 120, 220))
+
 }
 p{
+    color: blue;
     border-style:solid  ;
     padding: 10px;
-    border-color:yellow ;
+    border-color:rgb(62, 104, 89) ;
     border-radius:10px ;
     /* padding-left: 200px; */
     width: 300px;
     /* width: 30px; */
+    background:linear-gradient(white,rgb(120, 120, 220))
+
 }
