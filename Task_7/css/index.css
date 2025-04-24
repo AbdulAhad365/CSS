@@ -1,0 +1,14 @@
+.box{
+    border: 4px solid rgb(162, 74, 74);
+    padding: 10px;
+    width:100px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    font-size: 40px;
+}
+p{
+    /* it clears the property of the float */
+    /* clear:both */
+    clear: left;
+}
