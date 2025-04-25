@@ -1,20 +1,7 @@
-#div1{
-    background-color: red;
-    width: 250px;
-    border: 4px  solid yellow;
-    padding:10px;
-    margin: 20px;
-    /* set the div to the center */
-    /* margin: auto; */
+h1{
+    text-shadow: -3px 0px 4px rgb(37, 190, 232);
 
-    /* set the div to the left
-    margin-left:auto */
-
-}
-#div2{
-    background-color: rgb(133, 171, 122);
-    width: 250px;
-    border: 4px  solid rgb(69, 137, 148);
-    padding:10px;
-    margin-left: 20px;
+    /* text-shadow: -3px 0px 4px rgb(37, 190, 232),0px -4px 0px red; */
+    /* text-border */
+    box-shadow: 5px 5px 5px black;
 }
