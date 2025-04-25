@@ -1,0 +1,7 @@
+h1{
+    text-shadow: -3px 0px 4px rgb(37, 190, 232);
+
+    /* text-shadow: -3px 0px 4px rgb(37, 190, 232),0px -4px 0px red; */
+    /* text-border */
+    box-shadow: 5px 5px 5px black;
+}
